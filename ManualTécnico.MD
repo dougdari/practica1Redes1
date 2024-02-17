@@ -5,6 +5,7 @@
 ### Configuración de la computadora 11 perteneciente a Administración nivel 1
 
 
+
 ### Configuración de la computadora 12 perteneciente a Gerencia nivel 1
 
 
